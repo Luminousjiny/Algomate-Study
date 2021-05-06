@@ -37,3 +37,5 @@
 |4/21(수)|카카오|72415|[카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)|Lv3|
 |4/23(금)|카카오|60057|[문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|Lv2|
 |4/27(화)|삼성|21608|[상어 초등학교](https://www.acmicpc.net/problem/21608)|SilverⅡ|
+|4/28(수)|삼성|21609|[상어 중학교](https://www.acmicpc.net/problem/21609)|GoldⅡ|
+|4/29(목)|삼성|21610|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)|GoldⅤ|
